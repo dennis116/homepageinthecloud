@@ -3,8 +3,10 @@
 <title> PHP Test Script </title>
 </head>
 <body>
-<?php
-phpinfo( );
-?>
+
+	<p>Hallo Welt</p>
+	<p>von Nils Michael Wieber </p>
+
+
 </body>
 </html> 
